@@ -1,9 +1,16 @@
 # uml-diagram
 
+## About
+
+uml-diagram is a [Custom Elements](https://www.w3.org/TR/custom-elements/) implementation of main [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) diagrams in Javascript.
+
+* Provides html tags such as `<uml-class-diagram>` and `<uml-class>`
+* Provides a [UML diagram editor](https://rawgit.com/smigniot/uml-diagram/master/Uml_0.0.46.html)
+
 ## Usage
 
 Open https://rawgit.com/smigniot/uml-diagram/master/Uml_0.0.46.html ,
-start some UML diagrams and click on save.
+start some UML diagrams using the palette on the right and click on save.
 
 ![Image of reverse engineering of uml-diagram, using uml-diagram](https://rawgit.com/smigniot/uml-diagram/master/uml-diagrams-reversed.png)
 
