@@ -11,7 +11,7 @@ start some UML diagrams and click on save.
 
 * Just imported from http://sling.migniot.com/Uml/Uml_0.0.46.html
 * Will be split into "WebComponents" CDN polyfill + "uml-diagram" CDN
-* For a demo refer to https://sling.migniot.com/Magasin/Le probleme du magasin_Chap6.html.
+* For a demo refer to <https://sling.migniot.com/Magasin/Le probleme du magasin_Chap6.html>.
 
 
 
