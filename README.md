@@ -12,17 +12,17 @@ uml-diagram is a [Custom Elements](https://www.w3.org/TR/custom-elements/) imple
 Open https://rawgit.com/smigniot/uml-diagram/master/Uml_0.0.46.html ,
 start some UML diagrams using the palette on the right and click on save.
 
-![Image of reverse engineering of uml-diagram, using uml-diagram](https://rawgit.com/smigniot/uml-diagram/master/uml-diagrams-reversed.png)
+![Image of reverse engineering of uml-diagram, using uml-diagram](https://rawgit.com/smigniot/uml-diagram/master/doc/uml-diagrams-reversed.png)
 
 ## Custom elements
 
 Use the custom elements directly by linking. This first block goes into the head :
 ```html
-<script type="text/javascript" src="https://rawgit.com/smigniot/uml-diagram/master/webcomponents-lite-0.7.12.min.js">
+<script type="text/javascript" src="https://rawgit.com/smigniot/uml-diagram/master/src/webcomponents-lite-0.7.12.min.js">
 </script>
-<script type="text/javascript" src="https://rawgit.com/smigniot/uml-diagram/master/uml-diagram-0.0.46.js">
+<script type="text/javascript" src="https://rawgit.com/smigniot/uml-diagram/master/src/uml-diagram-0.0.46.js">
 </script>
-<link rel="stylesheet" type="text/css" href="https://rawgit.com/smigniot/uml-diagram/master/uml-diagram-0.0.46.css">
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/smigniot/uml-diagram/master/src/uml-diagram-0.0.46.css">
 </link>
 ```
 
